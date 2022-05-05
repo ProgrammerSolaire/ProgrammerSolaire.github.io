@@ -1,2 +1,2 @@
-# ProgrammerSolaire.github.io
+# UniteAllGamers
 **Witam wszystkich pasjonatów gier komputerowych ;)**
