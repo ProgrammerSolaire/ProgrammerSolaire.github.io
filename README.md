@@ -1,2 +1,2 @@
 # ProgrammerSolaire.github.io
-**Witam wszystkich pasjonatów gier komputerowych ;)**
+##Witam wszystkich pasjonatów gier komputerowych ;)
