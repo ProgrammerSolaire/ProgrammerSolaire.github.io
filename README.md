@@ -1,2 +1,2 @@
 # Z pasji do gier
-**Witam wszystkich pasjonatów gier komputerowych ;)**
+**Strona poświęcona grom komputerowym. Witam wszystkich pasjonatów gier komputerowych ;)**
